@@ -3,8 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 
-public class GuiPanel : MonoBehaviour
-{
+public class GuiPanel : MonoBehaviour {
     [Header("Set in Inspector")]
     public Dray dray;
     public Sprite healthEmpty;
